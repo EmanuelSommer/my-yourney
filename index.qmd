@@ -1,11 +1,7 @@
 ---
-title: "my-yourney"
+
 ---
 
-This is a Quarto website.
+My hike on the path of curiosity - hiking resembles my passion for endurance / curiosity we would like to thrive for new unseen territories and getting better, also thinking outside the box.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Fun and short intro about me and what to expect here i.e. overview of the website. Here also a nice picture would be great eiter of me doing a hobbie or a nice scenery?

@@ -1,9 +1,33 @@
 ---
-title: "About"
+title: "Emanuel Sommer"
+about:
+  id: hero-heading
+  template: trestles
+  image: images/protected/hochkant_es.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/emanuelsommer
+    - icon: github
+      text: Github
+      href: https://github.com/EmanuelSommer
 ---
 
-About this site
+:::{#hero-heading}
 
-```{r}
-1 + 1
-```
+Emanuel Sommer is a PhD Student...  
+
+-   detailed bio
+
+-   Where I come from and where i wanna go, yourney from math to a positive impact while always feeding my curiosity with new challenges. also mention inspiring people. having fun along the way and mention that my curiosity does not only hold for data science related stuff but also for travel, food and hiking :)
+
+:::
+
+# Education
+
+-   formal education also here
+
+# Experiances
+
+# Tech Stack
+

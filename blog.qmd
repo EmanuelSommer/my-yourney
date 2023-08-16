@@ -1,0 +1,7 @@
+---
+title: "Thoughs & Endeavours"
+---
+
+This is basically a BLOG
+
+Collection of articles about fun side projects and hackathons.

@@ -2,18 +2,53 @@ project:
   type: website
 
 website:
-  title: "my-yourney"
+  title: "My Hike on the Path of Curiosity"
+  description: "Math, Tech & Beyond"
+  favicon: images/favicon.ico
+  repo-url: https://github.com/EmanuelSommer/my-yourney
+  # site-url: https://tbd
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    search: true
+    logo: images/yourney_icon.png
+    right: 
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Publications"
+        file: professional_stuff.qmd
+      - text: "Thoughts & Endeavours"
+        file: blog.qmd
+      - icon: github
+        href: https://github.com/EmanuelSommer
+      - icon: linkedin
+        href: https://www.linkedin.com/in/emanuelsommer
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+      - icon: github
+        text: "Source"
+        href: https://github.com/EmanuelSommer/my-yourney
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    # author: "Emanuel Sommer"
     toc: true
-
-editor: visual
+    toc-location: "left"
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    mainfont: "Lato"
+    monofont: "Fira Mono"
+    footnotes-hover: true
+    # fontsize: 1em
+    theme: litera
+    # fontcolor: "#1C41BA"
+    # css: styles.css
+    # linkcolor: 
+    
 
