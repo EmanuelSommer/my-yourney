@@ -1,7 +1,15 @@
----
+![](images/protected/hithere.png){fig-align="center"}
 
----
+I'm Emanuel, a Mathematician & Data Scientist currently pursuing a PhD in Statistics. Here, on this personal website I share insights on my journey of what I call my *hike on the paths of curiosity*. The title not only resonates with my passion for hiking but also mirrors well how I tackle most things in life. Here's why I think it fits so perfectly: 
 
-My hike on the path of curiosity - hiking resembles my passion for endurance / curiosity we would like to thrive for new unseen territories and getting better, also thinking outside the box.
+1. Hiking is a naturally curious activity as one thrives to explore unseen territories, to challenge oneself and to get better every time. 
 
-Fun and short intro about me and what to expect here i.e. overview of the website. Here also a nice picture would be great eiter of me doing a hobbie or a nice scenery?
+2. Much like my pursuits, hiking demands endurance, good planning, and adaptability in the face of changing circumstances, much like sudden weather changes.
+
+As you delve into this website, you'll mostly find the subset of my personal paths closely related to **Math**, **Stats**, **Tech**, and my **professional journey**. Specifically the website contains the following sections:
+
+- **About:** Where I come from and where I wanna go is sketched in this  section which also covers my education, professional work experiences and tech stack. 
+
+- **Publications:** This section not surprisingly covers papers, software and other noteworthy publications.
+
+- **Thoughts & Endeavors:** A kind of mini blog – think hobby projects, hackathons, ressources and even a sprinkle of non data science related stories. :) 

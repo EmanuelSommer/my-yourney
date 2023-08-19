@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "My Hike on the Path of Curiosity"
+  title: "My Hike on the Paths of Curiosity"
   description: "Math, Tech & Beyond"
   favicon: images/favicon.ico
   repo-url: https://github.com/EmanuelSommer/my-yourney
   # site-url: https://tbd
   navbar:
     search: true
-    logo: images/yourney_icon.png
+    #logo: images/yourney_icon.png
     right: 
       - text: "Home"
         file: index.qmd
@@ -17,7 +17,7 @@ website:
         file: about.qmd
       - text: "Publications"
         file: professional_stuff.qmd
-      - text: "Thoughts & Endeavours"
+      - text: "Thoughts & Endeavors"
         file: blog.qmd
       - icon: github
         href: https://github.com/EmanuelSommer
