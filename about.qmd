@@ -23,11 +23,58 @@ Emanuel Sommer is a PhD Student...
 
 :::
 
+---
 # Education
 
--   formal education also here
+
+#### PhD Candiate of the Data Science Group @ Department of Statistics
+Ludwig-Maximilians-Universität München (LMU) | Oct 2023 - Now
+
+#### M.Sc. in Mathematics in Data Science
+Technische Universität München (TUM) | April 2020 - Mai 2022
+
+- Thesis on [Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas](https://mediatum.ub.tum.de/1658240)
+- Focus on Machine Learning and Statistics
+- Passed with Distinction
+
+#### B.Sc. in Mathematics
+Technische Universität München (TUM) | Oct 2016 - March 2020
+
+- Thesis on *Sports Data Analytics: Regression and tree based models*
+- Focus on Statistics, Probability and Finance
+- Minor in Economics
 
 # Experiances
+
+#### Junior Data Scientist
+CHECK24 | Technology Hub | June 2022 - Aug 2023
+
+As a Data Scientist in the central Data Science team TechHub, I was at the forefront of driving customer success by delivering innovative ML solutions for various products within the company.
+
+- Responsibility for the design, implementation and maintainance of end-to-end Learning-to-rank applications which serve thousands of customers on a daily basis to effortlessly find the products fitting their needs, constantly iterating and innovating to deliver the best possible experience and as a result improving conversion.
+
+- Collaboration with stakeholders in cross-functional teams across multiple products required me to be highly flexible and a quick learner, with strong business acumen and strong communication skills.
+
+- Equipment of stakeholders with rich dashboards in order to not only monitor but also to foster the explainability and transparency of the ML services.
+
+- Improved the decision making process with cutting-edge statistical methodology in the realm of sequential A/B testing.
+
+#### Data Scientist Intern
+KPMG | Financial Services Core/ Risk Banking | Sep 2019 - Dez 2019
+
+Data Scientist role on a long-term project at an investment bank.
+
+Planning and implementation of a custom automated data quality testing application for credit risk data in R, Rmarkdown and SQL. The generation of the reports was automated and the whole data quality testing cycle was reduced from 3 weeks (manually) to 4 hours (including review). The designed tests included univariate and multivariate outlier detection as well as other statistical methods.
+
+#### Teaching Assistant
+TUM School of Management | April 2019 - Aug 2019
+
+Tutor for the lecture *Statistics for Business Administration*.
+
+#### Intern (Schnupperlehre)
+Munich RE | EU/LA Property | Juli 2013 - Aug 2013
+
+Tutor for the lecture *Statistics for Business Administration*.
 
 # Tech Stack
 
