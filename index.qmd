@@ -8,7 +8,7 @@ I'm Emanuel, a Mathematician & Data Scientist currently pursuing a PhD in Statis
 
 As you delve into this website, you'll mostly find my personal paths whose topics are related to **Math**, **Stats**, **Tech**, and my **Professional Journey**. Here's a preview of what you can explore on this website:
 
-- **About:** Where I come from and where I wanna go is sketched in this section which also covers my education, professional work experiences and tech stack. 
+- **About:** Want to know some more about me? This section is a good starting point and also covers my education, professional work experiences and tech stack. 
 
 - **Publications:** As the name suggests this section covers papers, software and other noteworthy publications.
 

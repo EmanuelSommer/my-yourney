@@ -15,40 +15,43 @@ about:
 
 :::{#hero-heading}
 
-👋 Hi, I'm Emanuel! 
+Hi, I'm Emanuel! 👋
 
-I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
+I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk to large-scale Learning-to-Rank Models, serving thousands hourly. 
 
-With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics, ML, and Probability Theory. Following industry experience as an ML Practitioner, I'm now pursuing a PhD in Statistics, fusing statistical rigor with ML innovations. 
-
-Beyond data, I'm an enthusiast for hiking, food, travel, and sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
+With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics, ML, and Probability Theory. Following industry experience as a ML Practitioner, I'm now pursuing a PhD in Statistics, fusing statistical rigor with the flexibilty and scalibility of modern ML. 
 
 :::
 
+Beyond data, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
+
 ---
-# Education
+
+# Education 
 
 
-#### PhD Candiate of the Data Science Group @ Department of Statistics
+### PhD Candiate @ the Data Science Group - Department of Statistics
 Ludwig-Maximilians-Universität München (LMU) | Oct 2023 - Now
 
-#### M.Sc. in Mathematics in Data Science
+### M.Sc. in Mathematics in Data Science
 Technische Universität München (TUM) | April 2020 - Mai 2022
 
 - Thesis on [Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas](https://mediatum.ub.tum.de/1658240)
 - Focus on Machine Learning and Statistics
 - Passed with Distinction
 
-#### B.Sc. in Mathematics
+### B.Sc. in Mathematics
 Technische Universität München (TUM) | Oct 2016 - March 2020
 
 - Thesis on *Sports Data Analytics: Regression and tree based models*
 - Focus on Statistics, Probability and Finance
 - Minor in Economics
 
+---
+
 # Experiances
 
-#### Junior Data Scientist
+### Junior Data Scientist
 CHECK24 | Technology Hub | June 2022 - Aug 2023
 
 As a Data Scientist in the central Data Science team TechHub, I was at the forefront of driving customer success by delivering innovative ML solutions for various products within the company.
@@ -61,22 +64,54 @@ As a Data Scientist in the central Data Science team TechHub, I was at the foref
 
 - Improved the decision making process with cutting-edge statistical methodology in the realm of sequential A/B testing.
 
-#### Data Scientist Intern
+### Data Scientist Intern
 KPMG | Financial Services Core/ Risk Banking | Sep 2019 - Dez 2019
 
 Data Scientist role on a long-term project at an investment bank.
 
 Planning and implementation of a custom automated data quality testing application for credit risk data in R, Rmarkdown and SQL. The generation of the reports was automated and the whole data quality testing cycle was reduced from 3 weeks (manually) to 4 hours (including review). The designed tests included univariate and multivariate outlier detection as well as other statistical methods.
 
-#### Teaching Assistant
+### Teaching Assistant
 TUM School of Management | April 2019 - Aug 2019
 
 Tutor for the lecture *Statistics for Business Administration*.
 
-#### Intern (Schnupperlehre)
+### Intern (Schnupperlehre)
 Munich RE | EU/LA Property | Juli 2013 - Aug 2013
 
-Tutor for the lecture *Statistics for Business Administration*.
+Got a first taste of the reinsurance business and of the company.
 
+---
 # Tech Stack
+
+Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **R & Python**. My command of both of them, especially R, is advanced.
+
+- **Data Management**
+  - SQL
+  - AWS S3 & Athena
+- **Data Exploration & Wrangling** 
+  - Python: `pandas`, `numpy`, `dbt`
+  - R: `tidyverse`
+- **Machine Learning & Statistical Modeling**
+  - Deep Learning: `pytorch`, `tensorflow`, `torch`
+  - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`
+  - NLP: `tidytext`, `nltk`, `fasttext`
+- **MLOps**
+  - Metaflow
+  - MLFlow
+- **Model Deployment**
+  - APIs: `FastAPI`, `plumber`
+  - AWS ECS, Copilot, CloudWatch
+- **Dashboarding & Visualization**
+  - R: `shiny`, `golem`
+  - Python: `streamlit`
+  - Viz: `ggplot2`, `plotly`, `matplotlib`
+- **Package & Software Development**
+  - Version Control & Collaboration: Git
+  - R package development: `devtools`, `testthat`
+  - Docker (compose)
+  - Utils: `pre-commit`
+- **Others**
+  - LaTeX
+  - MS Office
 
