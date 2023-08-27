@@ -15,11 +15,13 @@ about:
 
 :::{#hero-heading}
 
-Emanuel Sommer is a PhD Student...  
+👋 Hi, I'm Emanuel! 
 
--   detailed bio
+I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
 
--   Where I come from and where i wanna go, yourney from math to a positive impact while always feeding my curiosity with new challenges. also mention inspiring people. having fun along the way and mention that my curiosity does not only hold for data science related stuff but also for travel, food and hiking :)
+With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics, ML, and Probability Theory. Following industry experience as an ML Practitioner, I'm now pursuing a PhD in Statistics, fusing statistical rigor with ML innovations. 
+
+Beyond data, I'm an enthusiast for hiking, food, travel, and sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
 
 :::
 
