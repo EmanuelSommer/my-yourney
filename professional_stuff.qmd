@@ -1,7 +1,26 @@
 ---
-title: "Publications & Software"
+# listing:
+#   - id: software
+#     contents: listings/pub/software.yml
+#     template: html/listing.ejs
 ---
 
--   Publications
+# Publications
 
--   Software
+### Vine Copula based Portfolio Level Conditional Risk Measure Forecasting
+
+Emanuel Sommer, [Karoline Bax](https://www.karolinebax.com/), [Claudia Czado](https://www.math.cit.tum.de/math/personen/professuren/czado-claudia/)
+
+Econometrics and Statistics | [DOI](https://doi.org/10.1016/j.ecosta.2023.08.002) | Published 2023
+
+# Software
+
+### {portvine}
+
+R Package for the portfolio level unconditional as well as conditional risk measure estimation for backtesting and stress testing using Vine Copula and ARMA-GARCH models.
+
+[CRAN](https://cloud.r-project.org/package=portvine) | [GitHub](https://github.com/EmanuelSommer/portvine) | [Documentation](https://emanuelsommer.github.io/portvine/)
+
+
+<!-- :::{#software} -->
+<!-- ::: -->
