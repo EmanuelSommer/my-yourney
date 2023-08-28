@@ -32,6 +32,6 @@
     "href": "professional_stuff.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\n\nVine Copula based Portfolio Level Conditional Risk Measure Forecasting\nEmanuel Sommer, Karoline Bax, Claudia Czado\nEconometrics and Statistics | DOI | Published 2023\n\n\n\nSoftware\n\n{portvine}\nR Package for the portfolio level unconditional as well as conditional risk measure estimation for backtesting and stress testing using Vine Copula and ARMA-GARCH models.\nCRAN | GitHub | Documentation"
+    "text": "Publications\n\nVine Copula based Portfolio Level Conditional Risk Measure Forecasting\nEmanuel Sommer, Karoline Bax, Claudia Czado\nEconometrics and Statistics | Published 2023 | DOI\n\n\n\nSoftware\n\n{portvine}\n Package for the portfolio level unconditional as well as conditional risk measure estimation for backtesting and stress testing using Vine Copula and ARMA-GARCH models.\nCRAN | GitHub | Documentation"
   }
 ]
