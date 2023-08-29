@@ -27,7 +27,7 @@ Beyond data, I'm an enthusiast for hiking, food, travel, often sharing these exp
 
 ---
 
-# Education 
+# {{< fa graduation-cap >}} Education 
 
 
 ### PhD Candiate @ the Data Science Group - Department of Statistics
@@ -49,7 +49,7 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 
 ---
 
-# Experiances
+# {{< fa user-astronaut >}} Experiances
 
 ### Junior Data Scientist
 CHECK24 | Technology Hub | June 2022 - Aug 2023
@@ -82,16 +82,16 @@ Munich RE | EU/LA Property | Juli 2013 - Aug 2013
 Got a first taste of the reinsurance business and of the company.
 
 ---
-# Tech Stack
+# {{< fa code >}} Tech Stack
 
-Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **R & Python**. My command of both of them, especially R, is advanced.
+Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them, especially {{< fa brands r-project >}}, is advanced.
 
 - **Data Management**
   - SQL
   - AWS S3 & Athena
 - **Data Exploration & Wrangling** 
-  - Python: `pandas`, `numpy`, `dbt`
-  - R: `tidyverse`
+  - {{< fa brands python >}} `pandas`, `numpy`, `dbt`
+  - {{< fa brands r-project >}} `tidyverse`
 - **Machine Learning & Statistical Modeling**
   - Deep Learning: `pytorch`, `tensorflow`, `torch`
   - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`
@@ -103,12 +103,12 @@ Below you can find a selection of my most valued tools from my tech stack roughl
   - APIs: `FastAPI`, `plumber`
   - AWS ECS, Copilot, CloudWatch
 - **Dashboarding & Visualization**
-  - R: `shiny`, `golem`
-  - Python: `streamlit`
+  - {{< fa brands r-project >}} `shiny`, `golem`
+  - {{< fa brands python >}} `streamlit`
   - Viz: `ggplot2`, `plotly`, `matplotlib`
 - **Package & Software Development**
   - Version Control & Collaboration: Git
-  - R package development: `devtools`, `testthat`
+  - {{< fa brands r-project >}} package development: `devtools`, `testthat`
   - Docker (compose)
   - Utils: `pre-commit`
 - **Others**

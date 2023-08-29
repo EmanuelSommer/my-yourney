@@ -1,7 +1,13 @@
 ---
 title: "Thoughs & Endeavours"
+listing:
+  id: mini-blog
+  contents: posts
+  sort: "date desc"
+  type: grid
+  # categories: cloud
+  categories: unnumbered
 ---
 
-This is basically a BLOG
-
-Collection of articles about fun side projects and hackathons.
+::: {#mini-blog}
+:::
