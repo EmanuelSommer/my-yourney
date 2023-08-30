@@ -31,7 +31,8 @@ Beyond data, I'm an enthusiast for hiking, food, travel, often sharing these exp
 
 
 ### PhD Candiate @ the Data Science Group - Department of Statistics
-Ludwig-Maximilians-Universität München (LMU) | Oct 2023 - Now
+Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learning (MCML) | Oct 2023 - Now
+
 
 ### M.Sc. in Mathematics in Data Science
 Technische Universität München (TUM) | April 2020 - Mai 2022
