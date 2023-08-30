@@ -1,0 +1,13 @@
+---
+title: "Having fun with Data Quality Testing 😉"
+description: "R package containing tools for data quality testing + shiny dashboard"  
+categories: ["Data Analysis", "Data Viz", "Dashboard"]
+image: ../../images/projects/project_dqtest.png
+date: 2020-11-15
+---
+
+Following my internship at KPMG and with the gained experience in data quality testing, I wanted to create my first shinydashboard and as the topic I naturally chose DQ testing. So I created an {{< fa brands r-project >}} package that contains the most important tools for the app. These tools include an implementation of the Local Outlier Factor Algorithm for multivariate outlier detection as well as many tools for univariate tests.
+
+Main {{< fa brands r-project >}} packages used: {e1071}, {cluster}, {dbscan}, {shiny}, {shinydashboard}, {shinytime}, {devtools}, {testthat} and packages of the {tidyverse}
+
+Wanna learn more? [Click here {{< fa brands github >}}](https://github.com/EmanuelSommer/dqtesting)

@@ -1,0 +1,15 @@
+---
+title: "Connect Four Game"
+description: "Shiny Dashboard with an artificial opponent you can challenge for the game of connect four"  
+categories: ["Game", "Dashboard"]
+image: ../../images/projects/project_vg.png
+date: 2020-07-04
+---
+
+The goal of this Shiny application was actually to try out the Minimax Algorithm. The result is a not too smart and not too dumb AI opponent that one can play at Connect Four.
+
+Main {{< fa brands r-project >}} packages used: {shiny} and packages of the {tidyverse}
+
+Wanna play? [Click Here!](https://esommer.shinyapps.io/vier_gewinnt_pretty/)
+
+Wanna check out the [code {{< fa brands github >}}](https://github.com/EmanuelSommer/vier_gewinnt_pretty)?

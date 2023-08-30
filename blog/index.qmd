@@ -1,0 +1,15 @@
+---
+title: "Thoughs & Endeavours"
+listing:
+  id: mini-blog
+  contents: posts
+  sort: "date desc"
+  type: grid
+  # categories: cloud
+  categories: unnumbered
+---
+
+A kind of mini blog – think Hobby Projects, Hackathons, Resources and possibly even a sprinkle of non Data Science related stories. :)
+
+::: {#mini-blog}
+:::

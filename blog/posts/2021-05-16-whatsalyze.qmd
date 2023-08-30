@@ -1,0 +1,13 @@
+---
+title: "Analyze your WhatsApp chats 🔎"
+description: "Use this shiny dashboard to find out who's the conversation starter or the last man standing!"  
+categories: ["Dashboard", "Data Viz", "Data Analysis"]
+image: ../../images/projects/project_whatsalyze.png
+date: 2021-05-16
+---
+
+The app allows the user to import one or multiple exported {{< fa brands whatsapp >}} chats for analysis and is written using the {golem} framework for production-grade and robust shiny apps.
+
+Main {{< fa brands r-project >}} packages used: {golem}, {shiny}, {shinymodules}, {ggplot2}, {rwhatsapp}, {plotly} and packages of the {tidyverse}
+
+Wanna check it out? [Click here {{< fa brands github >}}](https://github.com/EmanuelSommer/whatsalyze)

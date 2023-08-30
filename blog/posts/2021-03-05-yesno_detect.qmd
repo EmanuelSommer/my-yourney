@@ -1,0 +1,15 @@
+---
+title: "App to predict handwritten ✅ and ❌ boxes"
+description: "Inspired by a great book this project was my first truly E2E ML project!"  
+categories: ["Machine Learning", "Dashboard", "Data Viz"]
+image: ../../images/projects/project_yesno_quad.png
+date: 2021-03-05
+---
+
+Reading the great book [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) was my inspiration to this project where I first did everything E2E from Data Collection over Modelling and finally serving the models in a user friendly manner again through the deployed app.
+
+The app is written using the {golem} framework for production-grade and robust shiny apps. The prediction model is a convolutional deep neural network (CNN) implemented via the Keras API of Tensorflow. The app allows to explore and amend the custom database that was created for the Machine Learning task. Moreover it contains visualisations of the model architecture and valuation metrics. Above all it enables the user to challange the model with handwritten boxes.
+
+Main {{< fa brands r-project >}} packages used: {tensorflow}, {keras}, {golem}, {shiny}, {shinymodules}, {fullPage}, {waiter}, {googlesheets4} and packages of the {tidyverse}
+
+Wanna learn more? [Click here {{< fa brands github >}}](https://github.com/EmanuelSommer/YesNoDetect#yesnodetect)

@@ -1,0 +1,14 @@
+---
+title: "Winner of the NASA Hackathon 2021 🏆"
+description: "DSA Munich in cooperation with NASA"  
+categories: ["Hackathon", "Data Viz", "Data Analysis"]
+image: ../../images/projects/project_nasahack21.jpg
+date: 2021-10-11
+---
+
+The task of the Hackathon organized by the Data Science Association Munich in cooperation with NASA was to hand in a Data Analysis report alongside its source code for a provided space related data set.
+My final 1st place ranking was determined based on the following evaluation criteria: Data cleaning, descriptive statistics, the proposal and explorative analysis of a hypothesis, informative visualizations and code readablilty.
+
+Most important tools chosen: {{< fa brands r-project >}}, {rmarkdown}, packages from the {tidyverse}
+
+Wanna learn more? [Click here {{< fa brands github >}}](https://github.com/EmanuelSommer/nasa-hackathon-EmanuelSommer)

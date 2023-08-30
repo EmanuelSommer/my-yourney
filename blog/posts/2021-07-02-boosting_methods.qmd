@@ -1,0 +1,13 @@
+---
+title: "XGBoost Theory & Application"
+description: "My master's seminar on Statistical Methods and Models"  
+categories: ["Statistics", "Machine Learning"]
+image: ../../images/projects/project_boost.png
+date: 2021-07-02
+---
+
+The {bookdown} project shows my work for the main master's seminar from my M.Sc. Mathematics in Data Science at the TUM. The topic of the seminar was Statistical Methods and Models. My topic and thus covered in this project are boosting methods. First I guide the reader through some theory about (tree-based) gradient boosting and the famous and very efficient implementation of such a model XGBoost. Then I illustrate the discussed model with two real world data sets in a regression setting.
+
+Main {{< fa brands r-project >}} packages used: {tidymodels}, {xgboost}, {bookdown}, {xaringan} and packages of the {tidyverse}
+
+Wanna check it out? [Click here {{< fa brands github >}}](https://emanuelsommer.github.io/boosting_methods/)

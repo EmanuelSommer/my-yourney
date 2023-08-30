@@ -1,0 +1,13 @@
+---
+title: "R package for visualisation of P-values"
+description: "Lacking intuition on P-values, maybe this package helps!"  
+categories: ["Statistics", "Data Viz"]
+image: ../../images/projects/project_PV.jpeg
+date: 2019-06-17
+---
+
+The idea for this small project was born when many of the students of the course *Statistics of Business Administration*, where I was a tutor, had problems understanding the concept of P-values. Thus I created an {{< fa brands r-project >}} package that visualizes the P-values in the common setting of hypothesis tests for the 4 most common distributions. The usage, as it is meant for beginners in the field of statistics, is very straight forward.
+
+Main {{< fa brands r-project >}} packages used: {ggplot2}, {devtools}
+
+Wanna check it out? [Click here {{< fa brands github >}}](https://github.com/EmanuelSommer/PvalVis)
