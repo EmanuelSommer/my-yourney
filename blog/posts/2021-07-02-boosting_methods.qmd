@@ -1,6 +1,6 @@
 ---
 title: "XGBoost Theory & Application"
-description: "My master's seminar on Statistical Methods and Models"  
+description: "Ressources created during my master's seminar on Statistical Methods and Models"  
 categories: ["Statistics", "Machine Learning"]
 image: ../../images/projects/project_boost.png
 date: 2021-07-02

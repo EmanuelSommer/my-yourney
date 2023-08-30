@@ -17,13 +17,13 @@ about:
 
 Hi, I'm Emanuel! 👋
 
-I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk to large-scale Learning-to-Rank Models, serving thousands hourly. 
+I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
 
-With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics, ML, and Probability Theory. Following industry experience as a ML Practitioner, I'm now pursuing a PhD in Statistics, fusing statistical rigor with the flexibilty and scalibility of modern ML. 
+With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics & ML. Following industry experience as a ML Practitioner, I'm now pursuing a PhD in Statistics, fusing statistical rigor with the flexibilty and scalibility of modern ML. 
 
 :::
 
-Beyond data, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
+Beyond Data & Tech, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
 
 ---
 
@@ -37,8 +37,8 @@ Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learn
 ### M.Sc. in Mathematics in Data Science
 Technische Universität München (TUM) | April 2020 - Mai 2022
 
-- Thesis on [Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas](https://mediatum.ub.tum.de/1658240)
-- Focus on Machine Learning and Statistics
+- Thesis on [*Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas*](https://mediatum.ub.tum.de/1658240)
+- Focus on Machine Learning & Statistics
 - Passed with Distinction
 
 ### B.Sc. in Mathematics
@@ -57,7 +57,7 @@ CHECK24 | Technology Hub | June 2022 - Aug 2023
 
 As a Data Scientist in the central Data Science team TechHub, I was at the forefront of driving customer success by delivering innovative ML solutions for various products within the company.
 
-- Responsibility for the design, implementation and maintainance of end-to-end Learning-to-rank applications which serve thousands of customers on a daily basis to effortlessly find the products fitting their needs, constantly iterating and innovating to deliver the best possible experience and as a result improving conversion.
+- Responsibility for the Design, Implementation and Maintenance of E2E Learning-to-rank services serving thousands hourly to effortlessly match customers with the products fitting their needs, constantly innovating and as a result improved conversion significantly.
 
 - Collaboration with stakeholders in cross-functional teams across multiple products required me to be highly flexible and a quick learner, with strong business acumen and strong communication skills.
 
@@ -99,7 +99,7 @@ Below you can find a selection of my most valued tools from my tech stack roughl
   - NLP: `tidytext`, `nltk`, `fasttext`
 - **MLOps**
   - Metaflow
-  - MLFlow
+  - MLflow
 - **Model Deployment**
   - APIs: `FastAPI`, `plumber`
   - AWS ECS, Copilot, CloudWatch

@@ -1,6 +1,6 @@
 ---
 title: "Connect Four Game"
-description: "Shiny Dashboard with an artificial opponent you can challenge for the game of connect four"  
+description: "Shiny Dashboard with an artificial opponent you can challenge for a game of connect four"  
 categories: ["Game", "Dashboard"]
 image: ../../images/projects/project_vg.png
 date: 2020-07-04
