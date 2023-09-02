@@ -116,7 +116,7 @@
     "href": "publications/index.html",
     "title": " Publications",
     "section": "",
-    "text": "Publications\nVine Copula based Portfolio Level Conditional Risk Measure Forecasting\n\nAuthors: Emanuel Sommer, Karoline Bax, Claudia Czado\nPublished in Econometrics and Statistics | 2023 | DOI\nDependence Modeling | Vine Copulas | Portfolio Risk Estimation | Stress Testing | Time Series\n\n\n\n\n Software\n\n{portvine}\n Package for the portfolio level unconditional as well as conditional risk measure estimation for backtesting and stress testing using Vine Copula and ARMA-GARCH models.\n CRAN | GitHub | Documentation"
+    "text": "Publications\nVine Copula based Portfolio Level Conditional Risk Measure Forecasting\n\nAuthors: Emanuel Sommer, Karoline Bax, Claudia Czado\nEconometrics and Statistics | Accepted August 2023 | DOI\nDependence Modeling | Vine Copulas | Portfolio Risk Estimation | Stress Testing | Time Series\n\n\n\n\n Software\n\n{portvine}\n Package for the portfolio level unconditional as well as conditional risk measure estimation for backtesting and stress testing using Vine Copula and ARMA-GARCH models.\n CRAN | GitHub | Documentation"
   },
   {
     "objectID": "blog/posts/2021-10-11-nasahack.html",
