@@ -30,8 +30,10 @@ Beyond Data & Tech, I'm an enthusiast for hiking, food, travel, often sharing th
 # {{< fa graduation-cap >}} Education 
 
 
-### PhD Candiate @ the Data Science Group - Department of Statistics
+### PhD Candiate in Statistics & Machine Learning
 Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learning (MCML) | Oct 2023 - Now
+
+**Group:** [Data Science Group](https://datascience-lmu.github.io/website/) - Department of Statistics
 
 
 ### M.Sc. in Mathematics in Data Science
@@ -89,7 +91,7 @@ Below you can find a selection of my most valued tools from my tech stack roughl
 
 - **Data Management**
   - SQL
-  - AWS S3 & Athena
+  - {{< fa brands aws >}} S3 & Athena
 - **Data Exploration & Wrangling** 
   - {{< fa brands python >}} `pandas`, `numpy`, `dbt`
   - {{< fa brands r-project >}} `tidyverse`
@@ -102,7 +104,7 @@ Below you can find a selection of my most valued tools from my tech stack roughl
   - MLflow
 - **Model Deployment**
   - APIs: `FastAPI`, `plumber`
-  - AWS ECS, Copilot, CloudWatch
+  - {{< fa brands aws >}} ECS, Copilot, CloudWatch
 - **Dashboarding & Visualization**
   - {{< fa brands r-project >}} `shiny`, `golem`
   - {{< fa brands python >}} `streamlit`

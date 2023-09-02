@@ -1,6 +1,6 @@
 ---
 title: "Analyze your WhatsApp chats 🔎"
-description: "Use this shiny dashboard to find out who's the conversation starter or the last man standing!"  
+description: "Use this shiny dashboard e.g. to find out who's the conversation starter or the last man standing!"  
 categories: ["Dashboard", "Data Viz", "Data Analysis"]
 image: ../../images/projects/project_whatsalyze.png
 date: 2021-05-16
