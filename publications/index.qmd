@@ -7,11 +7,20 @@
 
 # {{< fa book >}} Publications
 
+**Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?**
+
+- Authors: [**Emanuel Sommer**](../about/index.qmd)\*, Lisa Wimmer\*, Theodore Papamarkou, Ludwig Bothmann, Bernd Bischl, David Rügamer
+- February 2024 \| [Preprint](https://arxiv.org/abs/2402.01484)
+- Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
+
 **Vine Copula based Portfolio Level Conditional Risk Measure Forecasting**
 
--   Authors: [**Emanuel Sommer**](../about/index.qmd), [Karoline Bax](https://www.karolinebax.com/), [Claudia Czado](https://www.math.cit.tum.de/math/personen/professuren/czado-claudia/)
+- Authors: [**Emanuel Sommer**](../about/index.qmd), [Karoline Bax](https://www.karolinebax.com/), [Claudia Czado](https://www.math.cit.tum.de/math/personen/professuren/czado-claudia/)
 - [Econometrics and Statistics](https://www.sciencedirect.com/journal/econometrics-and-statistics) \| Accepted August 2023 \| [DOI](https://doi.org/10.1016/j.ecosta.2023.08.002)
 - Dependence Modeling \| Vine Copulas \| Portfolio Risk Estimation \| Stress Testing \| Time Series 
+
+
+<span style="font-size: smaller; color: grey;">* Equal contribution</span>
 
 ------------------------------------------------------------------------
 

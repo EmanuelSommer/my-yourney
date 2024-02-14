@@ -25,34 +25,21 @@ With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in 
 
 Beyond Data & Tech, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
 
+
+
 ---
 
-# {{< fa graduation-cap >}} Education 
-
+# {{< fa user-astronaut >}} Experience
 
 ### PhD Candiate in Statistics & Machine Learning
 Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learning (MCML) | Oct 2023 - Now
 
-**Group:** [Data Science Group](https://datascience-lmu.github.io/website/) - Department of Statistics
+- [**Data Science Group**](https://datascience-lmu.github.io/website/) - Department of Statistics
 
+- **Research Focus:** Bayesian Neural Networks
 
-### M.Sc. in Mathematics in Data Science
-Technische Universität München (TUM) | April 2020 - Mai 2022
+- **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Machine Learning.
 
-- Thesis on [*Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas*](https://mediatum.ub.tum.de/1658240)
-- Focus on Machine Learning & Statistics
-- Passed with Distinction
-
-### B.Sc. in Mathematics
-Technische Universität München (TUM) | Oct 2016 - March 2020
-
-- Thesis on *Sports Data Analytics: Regression and tree based models*
-- Focus on Statistics, Probability and Finance
-- Minor in Economics
-
----
-
-# {{< fa user-astronaut >}} Experiances
 
 ### Junior Data Scientist
 CHECK24 | Technology Hub | June 2022 - Aug 2023
@@ -85,6 +72,24 @@ Munich RE | EU/LA Property | Juli 2013 - Aug 2013
 Got a first taste of the reinsurance business and of the company.
 
 ---
+
+# {{< fa graduation-cap >}} Education 
+
+### M.Sc. in Mathematics in Data Science
+Technische Universität München (TUM) | April 2020 - Mai 2022
+
+- Thesis on [*Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas*](https://mediatum.ub.tum.de/1658240)
+- Focus on Machine Learning & Statistics
+- Passed with Distinction
+
+### B.Sc. in Mathematics
+Technische Universität München (TUM) | Oct 2016 - March 2020
+
+- Thesis on *Sports Data Analytics: Regression and tree based models*
+- Focus on Statistics, Probability and Finance
+- Minor in Economics
+
+---
 # {{< fa code >}} Tech Stack
 
 Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them, especially {{< fa brands r-project >}}, is advanced.
@@ -96,8 +101,8 @@ Below you can find a selection of my most valued tools from my tech stack roughl
   - {{< fa brands python >}} `pandas`, `numpy`, `dbt`
   - {{< fa brands r-project >}} `tidyverse`
 - **Machine Learning & Statistical Modeling**
-  - Deep Learning: `pytorch`, `tensorflow`, `torch`
-  - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`
+  - Deep Learning: `jax`, `pytorch`, `tensorflow`, `torch`
+  - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`, `numpyro`
   - NLP: `tidytext`, `nltk`, `fasttext`
 - **MLOps**
   - Metaflow
