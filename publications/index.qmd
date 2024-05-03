@@ -10,7 +10,7 @@
 **Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?**
 
 - Authors: [**Emanuel Sommer**](../about/index.qmd)\*, Lisa Wimmer\*, Theodore Papamarkou, Ludwig Bothmann, Bernd Bischl, David Rügamer
-- February 2024 \| [Preprint](https://arxiv.org/abs/2402.01484)
+- [ICML 2024](https://icml.cc/) \| [Preprint](https://arxiv.org/abs/2402.01484)
 - Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
 
 **Vine Copula based Portfolio Level Conditional Risk Measure Forecasting**
