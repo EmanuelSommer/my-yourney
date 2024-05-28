@@ -1,0 +1,19 @@
+---
+title: "ICML 2024 Acceptance 🚀"
+description: "Our paper on Bayesian Deep Learning accepted at ICML 2024"  
+categories: ["Machine Learning", "Bayesian Inference", "Uncertainty Quantification"]
+image: ../../images/projects/project_bde.png
+date: 2024-05-29
+---
+
+I am beyond thrilled to share that our paper, *"Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?"*, has been accepted at ICML 2024! 🎉 This achievement is particularly special to me as it marks my first work during my relatively new PhD journey and my initial venture into the fascinating world of Bayesian Deep Learning.
+
+Being accepted into ICML, one of the largest and most prestigious machine learning conferences, is a dream come true. I’m incredibly excited to be part of this vibrant community and look forward to presenting our work also at the colocated 6th Symposium on Advances in Approximate Bayesian Inference.
+
+The review process for ICML was quite different from the journal experience I’ve had before—much more intense and significantly shorter. Despite the challenges, this rigorous review helped sharpen our research and brought out the best in our work. I’m grateful to my co-authors for their invaluable contributions and to the reviewers for their insightful feedback.
+
+This project has already sparked numerous exciting ideas and has led to engaging discussions with some incredibly smart and interesting people. I can’t wait to see where this journey leads next!
+
+If you’ll be in Vienna for ICML, I’d love to connect!
+
+Check out our paper on arXiv: [https://arxiv.org/abs/2402.01484](https://arxiv.org/abs/2402.01484)
