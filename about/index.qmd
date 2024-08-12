@@ -36,7 +36,7 @@ Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learn
 
 - [**Data Science Group**](https://datascience-lmu.github.io/website/) - Department of Statistics
 
-- **Research Focus:** Bayesian Neural Networks
+- **Research Focus:** (Sampling based Inference for ) Bayesian Neural Networks
 
 - **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Machine Learning.
 
@@ -92,7 +92,7 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 ---
 # {{< fa code >}} Tech Stack
 
-Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them, especially {{< fa brands r-project >}}, is advanced.
+Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them is advanced.
 
 - **Data Management**
   - SQL
@@ -113,7 +113,7 @@ Below you can find a selection of my most valued tools from my tech stack roughl
 - **Dashboarding & Visualization**
   - {{< fa brands r-project >}} `shiny`, `golem`
   - {{< fa brands python >}} `streamlit`
-  - Viz: `ggplot2`, `plotly`, `matplotlib`
+  - Viz: `ggplot2`, `plotly`, `matplotlib`, `datashader`
 - **Package & Software Development**
   - Version Control & Collaboration: Git
   - {{< fa brands r-project >}} package development: `devtools`, `testthat`
