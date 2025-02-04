@@ -7,15 +7,27 @@
 
 # {{< fa book >}} Publications
 
+**Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**
+
+- [**Emanuel Sommer**](../about/index.qmd), Jakob Robnik, Giorgi Nozadze, Uros Seljak, David Rügamer
+- [Paper (CRV coming soon)](https://openreview.net/forum?id=QMtrW8Ej98) \@ [ICLR 2025](https://iclr.cc/)
+- Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
+
+**Paths and Ambient Spaces in Neural Loss Landscapes**
+
+- Daniel Dold, Julius Kobialka, Nicolai Palm, [**Emanuel Sommer**](../about/index.qmd), David Rügamer, Oliver Dürr
+- Paper to be published \@ [AISTATS 2025](https://aistats.org/aistats2025/)
+- Approximate Bayesian Inference \| Sampling based Inference \| Loss Paths
+
 **Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?**
 
-- Authors: [**Emanuel Sommer**](../about/index.qmd)\*, Lisa Wimmer\*, Theodore Papamarkou, Ludwig Bothmann, Bernd Bischl, David Rügamer
+- [**Emanuel Sommer**](../about/index.qmd)\*, Lisa Wimmer\*, Theodore Papamarkou, Ludwig Bothmann, Bernd Bischl, David Rügamer
 - [Paper](https://proceedings.mlr.press/v235/sommer24a.html) \@ [ICML 2024](https://icml.cc/)
 - Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
 
 **Vine Copula based Portfolio Level Conditional Risk Measure Forecasting**
 
-- Authors: [**Emanuel Sommer**](../about/index.qmd), [Karoline Bax](https://www.karolinebax.com/), [Claudia Czado](https://www.math.cit.tum.de/math/personen/professuren/czado-claudia/)
+- [**Emanuel Sommer**](../about/index.qmd), [Karoline Bax](https://www.karolinebax.com/), [Claudia Czado](https://www.math.cit.tum.de/math/personen/professuren/czado-claudia/)
 - [Paper](https://doi.org/10.1016/j.ecosta.2023.08.002) accepted in August 2023 \@ [Econometrics and Statistics](https://www.sciencedirect.com/journal/econometrics-and-statistics)
 - Dependence Modeling \| Vine Copulas \| Portfolio Risk Estimation \| Stress Testing \| Time Series 
 

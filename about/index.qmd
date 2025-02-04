@@ -19,7 +19,7 @@ Hi, I'm Emanuel! 👋
 
 I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
 
-With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics & ML. Following industry experience as a ML Practitioner, I'm now pursuing a PhD in Statistics, fusing statistical rigor with the flexibilty and scalibility of modern ML. 
+With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics & ML. Following industry experience as an ML Practitioner, I'm now pursuing a PhD in Statistics, focusing on sampling-based inference for Bayesian Neural Networks to advance uncertainty quantification in modern Deep Learning. My research has been published at top venues like ICML and ICLR.
 
 :::
 

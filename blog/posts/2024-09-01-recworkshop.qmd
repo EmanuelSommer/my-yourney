@@ -1,0 +1,15 @@
+---
+title: "Recommender Systems Workshop 🎓"
+description: "Interactive ML workshop for high school students – materials available!"
+categories: ["Education", "Machine Learning", "Recommender Systems"]
+image: ../../images/projects/recworkshop.png
+date: 2024-09-01
+---
+
+Ever wondered how Netflix knows what you’ll binge next or how Spotify curates the perfect playlist? In a workshop (held twice already) organized by the Munich Center for Machine Learning (MCML), I introduced high school students to the magic behind recommender systems!
+
+With no prior knowledge required, participants explored the fundamentals of ML and built their own fashion recommender using an interactive Streamlit app. The hands-on session made abstract concepts tangible—because nothing beats learning by doing!
+
+🚀 Want to try it yourself? The GitHub repo with the resources for the interactive part, including the app and code, is publicly available: [Recommender Workshop Repo](https://github.com/EmanuelSommer/recommender_workshop).
+
+If you're interested in running a similar session, feel free to use the materials (with proper credit) or reach out for slides and additional content. Always happy to chat! 😊
