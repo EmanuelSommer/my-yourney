@@ -90,6 +90,33 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 - Minor in Economics
 
 ---
+
+# {{< fa person-chalkboard >}} Teaching
+
+### Lectures
+
+| Course                                 | Semester         | University | Level   |
+|----------------------------------------|-----------------|------------|---------|
+| Deep Learning                          | Summer 2025     | LMU        | Master  |
+| Advanced Statistical Modeling          | Winter 2024/25  | LMU        | Master  |
+| Applied Deep Learning                  | Summer 2024     | LMU        | Master  |
+| Deep Learning                          | Summer 2024     | LMU        | Master  |
+| Statistical Modeling                   | Winter 2023/24  | LMU        | Bachelor |
+| Statistics for Business Administration | Summer 2022     | TUM        | Bachelor |
+
+### Master's Seminars @ LMU
+
+| Seminar                                      | Semester        |
+|----------------------------------------------|----------------|
+| Dynamical Systems in Deep Learning          | Summer 2025    |
+| Theoretical Foundations of Deep Learning    | Winter 2024/25 |
+| Uncertainty Quantification in Deep Learning | Summer 2024    |
+| Statistical Inference in Data Science       | Winter 2023/24 |
+
+
+
+
+---
 # {{< fa code >}} Tech Stack
 
 Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them is advanced.

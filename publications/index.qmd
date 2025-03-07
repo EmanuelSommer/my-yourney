@@ -10,13 +10,13 @@
 **Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**
 
 - [**Emanuel Sommer**](../about/index.qmd), Jakob Robnik, Giorgi Nozadze, Uros Seljak, David Rügamer
-- [Paper (CRV coming soon)](https://openreview.net/forum?id=QMtrW8Ej98) \@ [ICLR 2025](https://iclr.cc/)
+- [Paper](https://arxiv.org/abs/2502.06335) \@ [ICLR 2025](https://iclr.cc/)
 - Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
 
 **Paths and Ambient Spaces in Neural Loss Landscapes**
 
 - Daniel Dold, Julius Kobialka, Nicolai Palm, [**Emanuel Sommer**](../about/index.qmd), David Rügamer, Oliver Dürr
-- Paper to be published \@ [AISTATS 2025](https://aistats.org/aistats2025/)
+- [Paper](https://arxiv.org/abs/2503.03382) \@ [AISTATS 2025](https://aistats.org/aistats2025/)
 - Approximate Bayesian Inference \| Sampling based Inference \| Loss Paths
 
 **Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?**
