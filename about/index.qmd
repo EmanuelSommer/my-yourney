@@ -34,7 +34,7 @@ Beyond Data & Tech, I'm an enthusiast for hiking, food, travel, often sharing th
 ### PhD Candiate in Statistics & Machine Learning
 Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learning (MCML) | Oct 2023 - Now
 
-- [**Data Science Group**](https://datascience-lmu.github.io/website/) - Department of Statistics
+- [**Munich Uncertainty Quantification AI Lab**](https://www.muniq.ai/) | Department of Statistics
 
 - **Research Focus:** (Sampling based Inference for ) Bayesian Neural Networks
 
