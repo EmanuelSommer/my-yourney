@@ -5,7 +5,9 @@
 #     template: html/listing.ejs
 ---
 
-# {{< fa book >}} Publications
+# {{< fa book >}} Publication Highlights
+
+For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=qa2P1tYAAAAJ&hl=en) profile.
 
 **Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**
 
