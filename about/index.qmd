@@ -40,6 +40,8 @@ Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learn
 
 - **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Machine Learning.
 
+- **Reviewing Activities:** AISTATS, UAI, NeurIPS (Among the top reviewers 2025), ICLR
+
 
 ### Junior Data Scientist
 CHECK24 | Technology Hub | June 2022 - Aug 2023
@@ -97,6 +99,7 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 
 | Course                                 | Semester         | University | Level   |
 |----------------------------------------|-----------------|------------|---------|
+| Applied Deep Learning                  | Winter 2025/26  | LMU        | Master  |
 | Deep Learning                          | Summer 2025     | LMU        | Master  |
 | Advanced Statistical Modeling          | Winter 2024/25  | LMU        | Master  |
 | Applied Deep Learning                  | Summer 2024     | LMU        | Master  |
@@ -108,6 +111,7 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 
 | Seminar                                      | Semester        |
 |----------------------------------------------|----------------|
+| Theoretical Foundations of Deep Learning    | Winter 2025/26 |
 | Dynamical Systems in Deep Learning          | Summer 2025    |
 | Theoretical Foundations of Deep Learning    | Winter 2024/25 |
 | Uncertainty Quantification in Deep Learning | Summer 2024    |
@@ -119,7 +123,7 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 ---
 # {{< fa code >}} Tech Stack
 
-Below you can find a selection of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them is advanced.
+Below you can find a selection of some of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them is advanced.
 
 - **Data Management**
   - SQL
@@ -129,7 +133,7 @@ Below you can find a selection of my most valued tools from my tech stack roughl
   - {{< fa brands r-project >}} `tidyverse`
 - **Machine Learning & Statistical Modeling**
   - Deep Learning: `jax`, `pytorch`, `tensorflow`, `torch`
-  - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`, `numpyro`
+  - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`, `numpyro`, `blackjax`
   - NLP: `tidytext`, `nltk`, `fasttext`
 - **MLOps**
   - Metaflow
@@ -145,7 +149,7 @@ Below you can find a selection of my most valued tools from my tech stack roughl
   - Version Control & Collaboration: Git
   - {{< fa brands r-project >}} package development: `devtools`, `testthat`
   - Docker (compose)
-  - Utils: `pre-commit`
+  - Utils: `pre-commit`, `uv`
 - **Others**
   - LaTeX
   - MS Office

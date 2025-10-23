@@ -2,18 +2,7 @@
 
 **I'm Emanuel 👋**
 
-**A Mathematician & Data Scientist pursuing a PhD in Stats & ML.**
+I work at [muniq.ai](https://www.muniq.ai/) on (Bayesian) Deep Learning and uncertainty quantification.  
+Here you’ll find my background, selected projects, and publications.
 
-Here, on this personal website I share insights on my journey of what I call my *hikes on the paths of curiosity*. The title not only resonates with my passion for hiking but also mirrors well how I tackle most things in life. This can be attributed to two key reasons.
-
-1. Hiking is a **naturally curious** activity as I thrive to explore unseen territories, to challenge myself as well as to get better and grow with every step along the way. 
-
-2. Much like my pursuits, hiking demands **endurance, good planning, and adaptability** in the face of changing circumstances, just like sudden weather changes.
-
-As you delve into this website, you'll mostly find content related to **Math**, **Stats**, **Tech**, and my **Professional Journey**. Here's a preview of what you can explore on this website:
-
-- [**About**](about/index.qmd) - Want to know some more about me? This section is a good starting point and also covers my Education, professional Work Experiences and Tech Stack. 
-
-- [**Publications**](publications/index.qmd) - As the name suggests this section covers Papers, Software and other noteworthy Publications.
-
-- [**Thoughts & Endeavors**](blog/index.qmd) - A kind of mini blog – think Hobby Projects, Hackathons, Resources and possibly even a sprinkle of non Data Science related stories. :) 
+[**About**](about/index.qmd) · [**Publications**](publications/index.qmd) · [**Thoughts & Endeavors**](blog/index.qmd)

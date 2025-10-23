@@ -18,6 +18,18 @@ p {
   font-family: $font-family-sans-serif;
 }
 
+main a {
+  color: #499552;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    color: darken(#499552, 10%);
+  }
+}
+
 // Navs
 
 .navbar-brand {
